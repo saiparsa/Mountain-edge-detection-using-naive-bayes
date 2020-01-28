@@ -1,10 +1,7 @@
-#!/usr/local/bin/python3
-#
-# Authors: [SANATH KEERTHI EDUPUGANTI(saedup),SAI PRASAD PARSA(saiparsa),AKHIL NAGULAVANCHA(aknagu)]
-#
+
 # Mountain ridge finder
 # Based on skeleton code by D. Crandall, Oct 2019
-#
+
 
 from PIL import Image
 from numpy import *
